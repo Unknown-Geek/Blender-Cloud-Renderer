@@ -1,5 +1,12 @@
 # Blender-Cloud-Renderer
 
+[![Stars](https://img.shields.io/github/stars/Unknown-Geek/Blender-Cloud-Renderer?style=flat)](https://github.com/Unknown-Geek/Blender-Cloud-Renderer/stargazers)
+[![Blender](https://img.shields.io/badge/3D-Blender-F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
+[![Google Colab](https://img.shields.io/badge/GPU-Google_Colab-F9AB00.svg?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Format-Jupyter_Notebook-F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+
 ## Project Description
 Blender-Cloud-Renderer is a project designed to render Blender projects using cloud resources. This allows for faster rendering times and offloads the computational burden from local machines.
 
